@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻Studying Computer Science at University of Malaya [26']<br>💭Currently learning Frontend Development<br>🤳🏼Currently working on React Native<br>🌄Enjoys slow walks<br><br>
+🧑🏻‍💻Studying Computer Science at University of Malaya [26']<br>💭Currently learning Frontend Development<br>🤳🏼Currently working on React Native<br><br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kxrweng&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
