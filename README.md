@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 University of Malaya (26')<br>💭 Maximising my potential<br>📧 Reach out to me at workwithkwlim@gmail.com<br><br>
+🧑🏻‍💻 University of Malaya (26')<br>💭 Trying to do better everyday<br>📧 Reach out to me at workwithkwlim@gmail.com<br><br>
 
 
 ## 🌐 Socials:
