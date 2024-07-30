@@ -1,5 +1,5 @@
 # 💫 About Me
-🧑🏻‍💻 University of Malaya (26')<br>📧 Reach out to me at workwithkwlim@gmail.com<br><br>
+🧑🏻‍💻 University of Malaya (26')<br>📧 Reach out to me at kwlimgeneral@gmail.com<br><br>
 
 
 ## 🌐 Socials
